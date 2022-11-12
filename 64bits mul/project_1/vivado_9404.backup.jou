@@ -1,0 +1,91 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Fri Nov 11 17:47:27 2022
+# Process ID: 9404
+# Current directory: C:/Users/guodl/Desktop/64bits mul/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent6388 C:\Users\guodl\Desktop\64bits mul\project_1\project_1.xpr
+# Log file: C:/Users/guodl/Desktop/64bits mul/project_1/vivado.log
+# Journal file: C:/Users/guodl/Desktop/64bits mul/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/guodl/Desktop/64bits mul/project_1/project_1.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 11}
+add_wave {{/mul_sim/mul}} 
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 12}
+add_wave {{/mul_sim/mul}} 
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 19}
+add_wave {{/mul_sim/mul}} 
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 20}
+add_wave {{/mul_sim/mul}} 
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 21}
+add_wave {{/mul_sim/mul}} 
+close_sim

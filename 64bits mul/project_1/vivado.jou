@@ -1,0 +1,52 @@
+#-----------------------------------------------------------
+# Vivado v2019.2 (64-bit)
+# SW Build 2708876 on Wed Nov  6 21:40:23 MST 2019
+# IP Build 2700528 on Thu Nov  7 00:09:20 MST 2019
+# Start of session at: Sat Nov 12 11:49:33 2022
+# Process ID: 12736
+# Current directory: C:/Users/guodl/Desktop/64bits mul/project_1
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent2036 C:\Users\guodl\Desktop\64bits mul\project_1\project_1.xpr
+# Log file: C:/Users/guodl/Desktop/64bits mul/project_1/vivado.log
+# Journal file: C:/Users/guodl/Desktop/64bits mul/project_1\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/guodl/Desktop/64bits mul/project_1/project_1.xpr}
+update_compile_order -fileset sources_1
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+update_compile_order -fileset sim_1
+update_compile_order -fileset sim_1
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+current_wave_config {Untitled 8}
+add_wave {{/mul_sim/mul}} 
+run 10 ns
+run 10 ns
+run 10 ns
+close_sim
+launch_simulation
+launch_simulation
+source mul_sim.tcl
+close_sim
+launch_simulation
+source mul_sim.tcl
+close_sim

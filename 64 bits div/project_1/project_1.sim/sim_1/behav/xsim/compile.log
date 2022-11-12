@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/guodl/Desktop/div.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/guodl/Desktop/64 bits div/project_1/project_1.srcs/sim_1/new/div_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module div_tb
